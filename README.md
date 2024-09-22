@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I work in govnernment technology as a data analyst. I have experience working with Tableau, SQL, and Python.
+Pronouns: He/Him/His
 <!--
 **Chandaman25/Chandaman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
