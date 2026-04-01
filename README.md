@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I work in govnernment technology as a data analyst. 
+- I work in government technology as a data analyst. 
 - I have experience working with Tableau, SQL, and Python.
 - Pronouns: He/Him/His
 <!--
